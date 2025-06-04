@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  background: fixed linear-gradient(150deg, #ffffff, #ffffff);
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.links {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.embed-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 6px;
+  width: 45%;
+  height: 45%;
+  overflow: hidden;
+  position: absolute;
+}
+
+.embed-wrapper:nth-child(1) {
+/* Mess with this to alter North-South position of top-left embed   */
+  top: 3%; 
+/* Mess with this to alter East-West position of top-left embed   */
+  left: 3%;
+  transform: rotate(180deg);
+}
+
+.embed-wrapper:nth-child(2) {
+  /* Mess with this to alter North-South position of top-right embed   */
+  top: 3%;
+    /* Mess with this to alter North-South position of top-right embed   */
+  right: 3%;
+  transform: rotate(180deg);
+}
+
+.embed-wrapper:nth-child(3) {
+    /* Mess with this to alter North-South position of bottom-left embed   */
+  bottom: 3%;
+   /* Mess with this to alter East-West position of bottom-left embed   */
+  left: 3%;
+}
+
+.embed-wrapper:nth-child(4) {
+      /* Mess with this to alter North-South position of bottom-right embed   */
+  bottom: 3%;
+      /* Mess with this to alter East-West position of bottom-right embed   */
+  right: 3%;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
