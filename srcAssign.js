@@ -9,29 +9,29 @@ var urls = [
   //4
   "https://provost.ncsu.edu/ofe/wp-content/uploads/sites/2/2023/03/What-Really-Gets-You-INto-Grad-School-1536x1125.jpg",
   //5
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_purple.png?v=1678905572832",
+  "https://provost.ncsu.edu/ofe/wp-content/uploads/sites/2/2023/02/OFE_DoodlEdPoster_2023-1536x864.jpg",
   //6
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTextTestIS_pink.png?v=1678905573077",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_pink.png?raw=true",
   //7
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_blue.png?v=1678905573412",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_blue.png?raw=true",
   //8
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_green.png?v=1678905573663",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_green.png?raw=true",
   //9
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_orange.png?v=1678905572300",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_orange.png?raw=true",
   //10
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTextTestIS_yellow.png?v=1678905572532",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_yellow.png?raw=true",
   //11
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_purple.png?v=1678905572832",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_purple.png?raw=true",
   //12
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTextTestIS_pink.png?v=1678905573077",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_pink.png?raw=true",
   //13
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_blue.png?v=1678905573412",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_blue.png?raw=true",
   //14
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_green.png?v=1678905573663",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_green.png?raw=true",
   //15
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/PosterTestIS_magenta.png?v=1678905573910",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/PosterTestIS_magenta.png?raw=true",
   //16
-  "https://cdn.glitch.global/e015eb63-4c2a-4bed-bfb3-2b3afec0bdbf/Virtual%20Plant%20Anatomy%20Dissections%20Facilitate%20Remote%20and%20Asynchronous%20Experiential%20Learning_19201080.png?v=1678916211161",
+  "https://github.com/technobotanist/InnovationStudioEmbeds/blob/main/Virtual%20Plant%20Anatomy%20Dissections%20Facilitate%20Remote%20and%20Asynchronous%20Experiential%20Learning_19201080.png?raw=true",
   //17
   
   //18
